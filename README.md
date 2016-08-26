@@ -1,2 +1,5 @@
 # Hello-World
-My first repository
+YO!!
+Hi,Everyone 
+I am himanshu Tomar and i am new to coding and hoping to become a good coder after a practice of year or two...
+So i m glad to meet u all...
